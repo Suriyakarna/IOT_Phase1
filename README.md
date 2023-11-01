@@ -1,2 +1,2 @@
-# IOT_PHASES
+# IOT_PROJECT
 K Suriya 
